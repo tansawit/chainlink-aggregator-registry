@@ -1,5 +1,7 @@
 # ChainlinkAggregator Registry Contract
 
+A simple contract that allows querying of the address of Chainlink's Aggregator price feed contract for a token given the token's address.
+
 ## Contract Addresses
 
 | Network | ChainlinkAggregatorRegistry Contract Address                                                                                |
